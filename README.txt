@@ -8,7 +8,7 @@
 
 4 - avviare 1 o + client
 
-5 - inserire la password (CIAO)
+5 - inserire la password (einaudi2024)
 
 6 - eserguire le operazioni desiderate
 
